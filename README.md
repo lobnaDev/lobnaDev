@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lobna Babker</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Android Developer 📱 </h3>
 
+- 🤓 Always learning new things.
+  
 - 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Java,Android,Firebase**
