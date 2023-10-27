@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **Lobna.m.b@gmail.com**
+- 💬 Ask me about **Java,Android,Firebase**
+
+- 📫 How to reach me **lobna.dev0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/labon_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="labon_m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/lobna-babker-5286a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/lobna-babker-5286a1b7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
