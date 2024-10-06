@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lobna Babker</h1>
+<h1 align="center">Hi 👋, I'm Lobna Babikir</h1>
 <h3 align="center">A passionate Android Developer 📱 </h3>
 
 - 🤓 Always learning new things.
